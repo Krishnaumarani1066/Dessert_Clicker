@@ -1,29 +1,37 @@
-Dessert Clicker app
-=====================
+# 🍰 Dessert Clicker App
 
-Code for Android Basics with Compose Codelab.
+An Android app built using **Kotlin** and **Jetpack Compose** that simulates a dessert-selling clicker game.  
+Users can tap on desserts to increase sales and revenue.
 
-Introduction
-------------
+---
 
-Dessert Clicker is a game about making desserts.
+## 📱 App Preview
 
-Press the button, make a dessert, earn the big bucks.
+![App Screenshot](./screenshot.png)
 
-You use this app in the course to explore the Android lifecycle and log messages to
-the Android console (Logcat).
+---
 
-Pre-requisites
---------------
+## 🚀 Features
 
-You need to know:
-- How to open, build, and run apps with Android Studio.
-- What an activity is, and how to create one in your app.
-- What the activity's onCreate() method does, and the kind of operations
-  that are performed in that method.
+- 🍩 Click on desserts to increase sales
+- 💰 Automatic revenue calculation
+- 🔄 Dynamic dessert changes based on progress
+- 📊 Displays:
+  - Desserts sold
+  - Total revenue
+- 🧠 Uses **ViewModel** for state management
+- 🎨 Built with **Jetpack Compose UI**
 
+---
 
-Getting Started
----------------
+## 🛠️ Tech Stack
 
-1. Download and run the app.
+- **Language:** Kotlin
+- **UI Toolkit:** Jetpack Compose
+- **Architecture:** MVVM
+- **State Management:** ViewModel
+- **IDE:** Android Studio
+
+---
+
+## 📂 Project Structure
