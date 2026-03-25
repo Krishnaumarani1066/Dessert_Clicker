@@ -1,4 +1,3 @@
-# 🍰 Dessert Clicker App
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=FF69B4&size=25&center=true&vCenter=true&width=600&lines=Dessert+Clicker+App;Built+with+Jetpack+Compose;Tap+%F0%9F%8D%A9+Earn+%F0%9F%92%B0;MVVM+Architecture" />
@@ -7,12 +6,10 @@
 An Android app built using **Kotlin** and **Jetpack Compose** that simulates a dessert-selling clicker game.  
 Users can tap on desserts to increase sales and revenue.
 
+https://github.com/user-attachments/assets/0c7feaf3-264c-442d-851a-99c27b875068
 
 ## 📱 App Preview
 <img width="623" height="888" alt="Screenshot 2026-03-25 172945" src="https://github.com/user-attachments/assets/ca89167f-37dc-4f54-9ea4-0ae02861722a" />
-
-
-https://github.com/user-attachments/assets/0c7feaf3-264c-442d-851a-99c27b875068
 
 
 
