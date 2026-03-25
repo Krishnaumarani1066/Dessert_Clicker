@@ -36,26 +36,13 @@ Users can tap on desserts to increase sales and revenue.
 ---
 
 ## 📂 Project Structure
-app/
-├── ui/
-│ ├── DessertClickerApp.kt
-│ ├── components/
-├── data/
-│ ├── Datasource.kt
-├── viewmodel/
-│ ├── DessertViewModel.kt
+<img width="504" height="186" alt="image" src="https://github.com/user-attachments/assets/7158a51e-c27e-4979-a572-52d287475357" />
 
-
----
 
 ## ⚙️ How to Run
 
 1. Clone the repository:
 ```bash
 git clone https://github.com/krishnaumarani1066/dessert-clicker.git
-
-2.Open in Android Studio
-3.Sync Gradle
-4.Run on Emulator or Device
 
 
