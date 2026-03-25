@@ -48,6 +48,10 @@ https://github.com/user-attachments/assets/0c7feaf3-264c-442d-851a-99c27b875068
 ```bash
 https://github.com/Krishnaumarani1066/Dessert_Clicker
 
+2.Open in Android Studio
+3.Sync Gradle
+4.Run on Emulator or Device
+
 
 
 
