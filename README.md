@@ -46,7 +46,7 @@ https://github.com/user-attachments/assets/0c7feaf3-264c-442d-851a-99c27b875068
 
 1. Clone the repository:
 ```bash
-https://github.com/Krishnaumarani1066/Dessert_Clickerb
+https://github.com/Krishnaumarani1066/Dessert_Clicker
 
 
 
