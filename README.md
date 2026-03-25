@@ -36,6 +36,8 @@ Users can tap on desserts to increase sales and revenue.
 
 ## 📱 App Preview
 <img width="623" height="888" alt="Screenshot 2026-03-25 172945" src="https://github.com/user-attachments/assets/ca89167f-37dc-4f54-9ea4-0ae02861722a" />
+
+
 https://github.com/user-attachments/assets/0c7feaf3-264c-442d-851a-99c27b875068
 
 
