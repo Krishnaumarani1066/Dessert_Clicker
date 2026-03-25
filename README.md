@@ -7,19 +7,6 @@
 
 An Android app built using **Kotlin** and **Jetpack Compose** that simulates a dessert-selling clicker game.  
 Users can tap on desserts to increase sales and revenue.
-
-
-
-https://github.com/user-attachments/assets/0c7feaf3-264c-442d-851a-99c27b875068
-
-## 📱 App Preview
-<img width="623" height="888" alt="Screenshot 2026-03-25 172945" src="https://github.com/user-attachments/assets/ca89167f-37dc-4f54-9ea4-0ae02861722a" />
-
-
-
-
----
-
 ## 🚀 Features
 
 - 🍩 Click on desserts to increase sales
@@ -51,7 +38,15 @@ https://github.com/user-attachments/assets/0c7feaf3-264c-442d-851a-99c27b875068
 
 1. Clone the repository:
 ```bash
-https://github.com/Krishnaumarani1066/Dessert_Clicker
+https://github.com/Krishnaumarani1066/Dessert_Clickerb
+
+
+https://github.com/user-attachments/assets/0c7feaf3-264c-442d-851a-99c27b875068
+
+## 📱 App Preview
+<img width="623" height="888" alt="Screenshot 2026-03-25 172945" src="https://github.com/user-attachments/assets/ca89167f-37dc-4f54-9ea4-0ae02861722a" />
+
+
 
 
 
